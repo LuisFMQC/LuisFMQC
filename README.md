@@ -1,6 +1,6 @@
 Oi 👋
 
-Eu sou o Luis Fernando, atualmente atuando como Coordenador de uma equipe de helpdesk.
+Eu sou o Luis Fernando, atualmente atuando como Coordenador de uma equipe de helpdesk. /n
 Formação: Bacharel em Sistemas de Informação pela Faculdade Anhanguera 🐱‍👤 
 
 👶🏻 Um Dev em desenvolvimento em JavaScript, HTML, CSS, ReactJS, Node.js, Typescript
