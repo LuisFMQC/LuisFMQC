@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=LuisFMQC&color=yellow" alt="Profile views" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=LuisFMQC&color=purple" alt="Profile views" /> </p>
 
 Oi 👋
 
