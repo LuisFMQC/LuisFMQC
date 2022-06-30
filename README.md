@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=LuisFMQC&color=yellow" alt="Profile views" /> </p>
+
 Oi 👋
 
 Eu sou o Luis Fernando, atualmente atuando como Coordenador de uma equipe de helpdesk.
@@ -7,7 +9,7 @@ Formação: Bacharel em Sistemas de Informação pela Faculdade Anhanguera 🐱�
 👶🏻 Um Dev em desenvolvimento em JavaScript, HTML, CSS, ReactJS, Node.js, Typescript
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuisFMQC&color=yellow" alt="Profile views" /> </p>
+
 
 <div align="center">
   <a href="https://github.com/LuisFMQC?tab=repositories">
