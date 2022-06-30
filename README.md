@@ -7,6 +7,8 @@ Formação: Bacharel em Sistemas de Informação pela Faculdade Anhanguera 🐱�
 👶🏻 Um Dev em desenvolvimento em JavaScript, HTML, CSS, ReactJS, Node.js, Typescript
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuisFMQC&color=yellow" alt="Profile views" /> </p>
+
 <div align="center">
   <a href="https://github.com/LuisFMQC?tab=repositories">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LuisFMQC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
